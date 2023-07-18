@@ -74,7 +74,7 @@ chromedriver_path = '/path/to/chromedriver'
 link = 'https://direct-link.net/644291/linkblog'by fly
 
 # Number of clicks and desired average interval between clicks (in seconds)
-total_clicks = 20
+total_clicks = 900000000000000
 average_interval = 3600 / total_clicks  # 3600 seconds in an hour
 
 # Start the Chrome driver
