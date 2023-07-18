@@ -71,7 +71,7 @@ from selenium.webdriver.common.keys import Keys
 chromedriver_path = '/path/to/chromedriver'
 
 # URL of the link you want to click
-link = 'https://direct-link.net/644291/linkblog'
+link = 'https://direct-link.net/644291/linkblog'by fly
 
 # Number of clicks and desired average interval between clicks (in seconds)
 total_clicks = 20
